@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year **Electrical Engineering** student at **BIET Jhansi** and a passionate **Full Stack Developer**. I specialize in architecting high-performance applications using **Rust (Axum)** and the **MERN Stack**. My focus lies in **System Design**, **Microservices**, and building **AI-driven solutions**.
+I am a **final-year** B.Tech student and a passionate **Full Stack Developer**. I specialize in architecting high-performance applications using **Rust (Axum)** and the **MERN Stack**. My focus lies in **System Design**, **Microservices**, and building **AI-driven solutions**.
 
 * 🔭 I’m currently working on **High-performance REST APIs with Rust**
 * 🌱 I’m currently learning **Advanced System Design & Kubernetes**
@@ -61,13 +61,11 @@ I am a final-year **Electrical Engineering** student at **BIET Jhansi** and a pa
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **PrepWise (AI Interview System)** | AI-driven platform generating customized interviews using **Google Gemini API** & **Vapi** for real-time questions. | Next.js, Firebase, Gemini API, Tailwind |
-| **Mystery Message** | Anonymous feedback platform with unique public links and **MongoDB Aggregation Pipelines** for data filtering. | Next.js, MongoDB, NextAuth, Zod |
-| **SocialX** | Full-featured social media app with **JWT authentication** and responsive **React/Redux** UI. | MERN Stack, Redux, JWT |
-
----
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **PrepWise (AI Interview Gen)** | [cite_start]An AI-driven platform that generates customized interviews using **Google Gemini** & **Vapi** for real-time voice/text interaction[cite: 4]. | ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase) ![Gemini](https://img.shields.io/badge/-AI-blue) | [Live Demo](https://ai-mock-interview-seven-sable.vercel.app/sign-in) <br> [GitHub](https://github.com/Amitniranjana/ai-mockInterview) |
+| **Mystery Message** | [cite_start]Anonymous feedback platform utilizing **MongoDB Aggregation Pipelines** for data filtering and **NextAuth** for secure OTP authentication[cite: 4]. | ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb) ![Zod](https://img.shields.io/badge/-Zod-blue) | [Live Demo](YOUR_LINK_HERE) <br> [GitHub](YOUR_LINK_HERE) |
+| **SocialX (Social Media App)** | [cite_start]Full-featured social media app with **JWT authentication** for 100% secure sessions and a responsive **React/Redux** UI[cite: 4]. | ![MERN](https://img.shields.io/badge/-MERN-blue) ![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux) ![JWT](https://img.shields.io/badge/-Auth-green) | [Live Demo](YOUR_LINK_HERE) <br> [GitHub](YOUR_LINK_HERE) |
 
 ### 📊 GitHub Stats
 
