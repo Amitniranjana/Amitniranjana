@@ -65,7 +65,7 @@ I am a **final-year** B.Tech student and a passionate **Full Stack Developer**. 
 | :--- | :--- | :--- | :--- |
 | **PrepWise (AI Interview Gen)** | [cite_start]An AI-driven platform that generates customized interviews using **Google Gemini** & **Vapi** for real-time voice/text interaction[cite: 4]. | ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase) ![Gemini](https://img.shields.io/badge/-AI-blue) | [Live Demo](https://ai-mock-interview-seven-sable.vercel.app/sign-in) <br> [GitHub](https://github.com/Amitniranjana/ai-mockInterview) |
 | **Mystery Message** | [cite_start]Anonymous feedback platform utilizing **MongoDB Aggregation Pipelines** for data filtering and **NextAuth** for secure OTP authentication[cite: 4]. | ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb) ![Zod](https://img.shields.io/badge/-Zod-blue) | [Live Demo](YOUR_LINK_HERE) <br> [GitHub](YOUR_LINK_HERE) |
-| **SocialX (Social Media App)** | [cite_start]Full-featured social media app with **JWT authentication** for 100% secure sessions and a responsive **React/Redux** UI[cite: 4]. | ![MERN](https://img.shields.io/badge/-MERN-blue) ![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux) ![JWT](https://img.shields.io/badge/-Auth-green) | [Live Demo](YOUR_LINK_HERE) <br> [GitHub](YOUR_LINK_HERE) |
+
 
 ### 📊 GitHub Stats
 
